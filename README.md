@@ -13,6 +13,7 @@ Install the latest stable version of python if not already from [here](https://p
 ### 2. Navigate to folder containing the dict.py file & run it
 
 `$` `cd C:\Users\<path_to_folder>`
+
 `$` `python dict.py <word>`
 
 ### 3. Enjoy your command line dictionary
